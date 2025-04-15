@@ -6,13 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elpery&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Ahmed-Elpery&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <h3 align="left">Language</h3>
 
 ###
@@ -35,7 +28,18 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ahmed-Elpery/Ahmed-Elpery/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elpery&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Ahmed-Elpery&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Elpery/Ahmed-Elpery/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Elpery/Ahmed-Elpery/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ahmed-Elpery/Ahmed-Elpery/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
