@@ -74,34 +74,38 @@ Currently focused on applied AI and real-time distributed systems.
 ## Featured Projects
 
 ### 🚐 [El-Mawqaf](https://github.com/Ahmed-Elpery/el-mawqaf) — Smart Transport System
+
 End-to-end platform for Egyptian microbus stations. Flutter mobile client, Node/Express REST API with Socket.IO real-time sync, MongoDB persistence, and separate admin and operator web dashboards.
 
 The interesting part is the authorisation model: operators are scoped to an assigned station, governorate admins to a governorate, and super admins globally — enforced through a composable middleware chain rather than scattered permission checks.
 
-`Flutter` · `Node.js` · `Express` · `MongoDB` · `Socket.IO` · `JWT` · `RBAC`
+**Flutter** · **Node.js** · **Express** · **MongoDB** · **Socket.IO** · **JWT** · **RBAC**
 
 ---
 
 ### 🧾 [Cashier System](https://github.com/Ahmed-Elpery/cashier_system) — Bilingual Desktop POS
+
 Offline-first point-of-sale for restaurants. Order entry, expense tracking, PDF invoicing, and Excel reporting over local SQLite. Arabic/English switching at runtime. Ships as a standalone Windows installer.
 
 Built for environments where connectivity is unreliable and the operator is not technical — no server, no subscription, no network dependency.
 
-`Python` · `Tkinter` · `SQLite` · `ReportLab` · `openpyxl` · `PyInstaller`
+**Python** · **Tkinter** · **SQLite** · **ReportLab** · **openpyxl** · **PyInstaller**
 
 ---
 
 ### 🚗 [BMW Egypt Website](https://github.com/Ahmed-Elpery/bmw-egypt-website) — Vanilla JS PWA
+
 Responsive vehicle showcase built deliberately without a framework — service workers, Cache API, CSS custom properties, and the Firebase Web SDK used directly. Firebase Auth with Firestore profiles behind a default-deny security rules model.
 
-`JavaScript` · `Firebase` · `Firestore` · `PWA` · `SEO`
+**JavaScript** · **Firebase** · **Firestore** · **PWA** · **SEO**
 
 ---
 
 ### 💼 [Portfolio](https://github.com/Ahmed-Elpery/PORT)
+
 Personal portfolio website.
 
-`HTML5` · `CSS3` · `JavaScript`
+**HTML5** · **CSS3** · **JavaScript**
 
 ---
 
@@ -124,78 +128,10 @@ Personal portfolio website.
 
 ## Contact
 
-- **Email** — [ahmedelpery41@gmail.com](mailto:ahmedelpery41@gmail.com)
-- **GitHub** — [@Ahmed-Elpery](https://github.com/Ahmed-Elpery)
+<p align="center">
+  <a href="mailto:ahmedelpery41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Ahmed-Elpery"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 <p align="center"><sub>Open to collaboration on real-time systems, mobile applications, and applied AI.</sub></p>
-<h1 align="left">Hi 👋! My name is Ahmed-Elpery</h1>
-
-###
-
-<h3 align="left">Al & Data Science Engineering |<br>studies at Al-Riyada University of Science and Technology</h3>
-
-###
-
-<h3 align="left">Language</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-  <img width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
-  <img width="90" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elpery&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Ahmed-Elpery&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-Elpery/Ahmed-Elpery/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-Elpery/Ahmed-Elpery/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ahmed-Elpery/Ahmed-Elpery/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/ahmed_elperyy?igsh=bW5neTc2dmhjem1s&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="125" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="125" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="125" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/ahmed-elpery-2901a5295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="125" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1FDHunpMHo/?mibextid=wwXIfr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="125" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://wa.me/qr/X2JWSP5U2OBCE1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="125" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://th.bing.com/th/id/OIP.Vm-cPN-B4t18LJvj16CDdQHaEK?rs=1&pid=ImgDetMain"  />
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Elpery.Ahmed-Elpery&"  />
-
-###
